@@ -23,11 +23,13 @@ This study explored the factors influencing and predicting draft lag, the time i
 *Figure 1*
 
 <img src="./img/cox_table.png" width=50% height=50%>
+
 *Table 1*
 
 Descriptive results are shown in the Figure 1. The Cox model revealed all predictors except handedness were statistically significant. The model had a concordance index of 0.776, indicating a strong ability to distinguish between players who will enter the NHL sooners versus later based on the predictors. Players who were drafted earlier and were shorter tended to enter the NHL sooner. Conversely, older players at the time of the draft, forwards, goalies, heavier players, and those from the USA or Russia (compared to Canada) tended to enter the NHL later (more details see in Table 1 ). The Random Forest model corroborated these findings, highlighting draft overall ranking and weight as the most important predictors (see Figure 2). The CRPS was 0.163, indicating the model’s reasonable predictive accuracy.
 
-![Figure 2](./img/variable_importance.png)
+<img src="./img/variable_importance.png" width=50% height=50%>
+
 *Figure 2*
 
 ## Discussion:
