@@ -1,8 +1,8 @@
 # 44 Year Variations in NHL Draft Lag by Country, Position, Draft Rank and Handedness
 
-Yiru Wang$^1$, Benjamin Csiernik$^2$, Kathryn Johnston$^1$, & Joseph Baker$^1$
+Yiru Wang<sup>1</sup>, Benjamin Csiernik<sup>2</sup>, Kathryn Johnston<sup>1</sup> & Joseph Baker<sup>1</sup>
 
-$^1$ Tanenbaum Institute for Science in Sport, University of Toronto; $^2$ Ontario Tech University
+<sup>1</sup>Tanenbaum Institute for Science in Sport, University of Toronto;  <sup>2</sup>Ontario Tech University
 
 **Target Audiences:** academia, coaches, athletes, industry
 
@@ -18,7 +18,7 @@ This study explored the factors influencing and predicting draft lag, the time i
 
 ## Results:
 
-![Figure 1](./img/yte_by_position.png)
+![Figure 1](./img/yte_by_position.png | width=80)
 *Figure 1*
 
 ![Table 1](./img/cox_table.png)
