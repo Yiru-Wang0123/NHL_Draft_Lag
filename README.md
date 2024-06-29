@@ -18,7 +18,7 @@ This study explored the factors influencing and predicting draft lag, the time i
 
 ## Results:
 
-<img src="./img/yte_by_position.png" width=50% height=50%>
+<img src="./img/yte_by_position.png" width=80% height=50%>
 
 *Figure 1*
 
