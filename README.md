@@ -34,6 +34,6 @@ Descriptive results are shown in the Figure 1. The Cox model revealed all predic
 
 ## Discussion:
 
-Overall, our study highlights the importance of considering a range of factors, including physical attributes and draft rankings, in  predicting NHL entry. By recognizing these influences, hockey organizations can improve their drafting strategies and development programs, ultimately enhancing player progression to the NHL.
+Overall, our study highlights the importance of considering a range of factors, including physical attributes and draft rankings, when predicting NHL entry. By recognizing these influences, hockey organizations can improve their drafting strategies and development programs, ultimately enhancing player progression to the NHL.
 
 
